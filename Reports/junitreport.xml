@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="48.116733">
-    <testcase classname="To validate login functionality of Amazon application" name="To validate Login process" time="48.116733">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="38.943848">
+    <testcase classname="To validate login functionality of Amazon application" name="To validate Login process" time="38.943848">
         <system-out><![CDATA[Given To launch browser and maximize........................................passed
 When To launch Amazon url...................................................passed
 And Click signin tab........................................................passed
